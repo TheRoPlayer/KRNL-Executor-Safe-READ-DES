@@ -1,4 +1,4 @@
 -- lua
 !strict
 
-loadstring("")
+loadstring("https://github.com/TheRoPlayer/KRNL-Executor-Safe-READ-DES/blob/main/ff.rbxm")
